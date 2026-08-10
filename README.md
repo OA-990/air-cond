@@ -2,11 +2,11 @@
 
 Components:
 
-ATmega32 -> [Datasheet](datasheets/ATMEGA32.PDF)
+ATmega32 -> [Datasheet](ATMEGA32.PDF)
 
-LM35 temperature sensor -> [Datasheet](datasheets/lm35.pdf)
+LM35 temperature sensor -> [Datasheet](lm35.pdf)
 
-LCD1602 Blue Backlight with Soldering pin header -> [Datasheet](datasheets/LMB161ABC.pdf)
+LCD1602 Blue Backlight with Soldering pin header -> [Datasheet](LMB161ABC.pdf)
 
 
 Keypad-Calculator
